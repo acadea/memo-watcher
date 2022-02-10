@@ -1,0 +1,16 @@
+{
+    "name": "memo-watcher",
+    "version": "1.0.3",
+    "description": "A simple module to monitor computer RAM.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/acadea/memo-watcher",
+    "author": "Sam Ngu",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^4.1.2",
+        "node-os-utils": "^1.3.6"
+    }
+}
